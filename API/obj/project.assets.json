@@ -2113,19 +2113,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\ottti\\.nuget\\packages\\": {}
+    "C:\\Users\\ADMIN\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "d:\\DattingApp\\API\\API.csproj",
+      "projectUniqueName": "D:\\DattingApp\\API\\API.csproj",
       "projectName": "API",
-      "projectPath": "d:\\DattingApp\\API\\API.csproj",
-      "packagesPath": "C:\\Users\\ottti\\.nuget\\packages\\",
-      "outputPath": "d:\\DattingApp\\API\\obj\\",
+      "projectPath": "D:\\DattingApp\\API\\API.csproj",
+      "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
+      "outputPath": "D:\\DattingApp\\API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\ottti\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
@@ -2199,7 +2199,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.419\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.420\\RuntimeIdentifierGraph.json"
       }
     }
   }
